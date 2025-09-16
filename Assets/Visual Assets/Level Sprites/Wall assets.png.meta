@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +97,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Empty
+      name: Wall assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a3bdde8a738c4f904c98167a1fe58
+      internalID: -1459592910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall assets_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547fc2aea0223c6448ea8ce18d2a05c5
+      internalID: -1176456105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall assets_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37be9a84dedc77d489fde1ce6cc6e232
+      internalID: -2135179996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall assets_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc18729304c1b44926efb685755471
+      internalID: 1093030855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall assets_4
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f856a7502b708444ea0e6509678b8a81
-      internalID: -1320304767
+      spriteID: e819130ba6e5e8f4a87aee8ec546066b
+      internalID: 1308800178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Outer_Corner
+      name: Wall assets_5
       rect:
         serializedVersion: 2
         x: 16
@@ -132,35 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b83ed2f404aacd4b82bce31460f1beb
-      internalID: -1900372074
+      spriteID: 17ef66116ce27654fb90043adde1021f
+      internalID: -164007587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Outer_Wall
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37bb61507ddfd7743a4244bf29a9f1fa
-      internalID: -2130665771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inner_Corner
+      name: Wall assets_6
       rect:
         serializedVersion: 2
         x: 0
@@ -174,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36f40e114a1e3da45afa0401d9ae99cf
-      internalID: -793045785
+      spriteID: 3f9641f81908f0f4881746f909e0f513
+      internalID: 187683806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inner_Wall
+      name: Wall assets_7
       rect:
         serializedVersion: 2
         x: 16
@@ -195,35 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6534460ca95fdb4987b5ac051cd52ab
-      internalID: -949485693
+      spriteID: 42197cd35f6a5e640b7516179f3b4a60
+      internalID: 1423566464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pellet
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9326094428b43a7419b224601fb778de
-      internalID: 1437957203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Power_Pellet
+      name: Wall assets_8
       rect:
         serializedVersion: 2
         x: 0
@@ -237,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 208e21c1cdfbe4546b911554f87efad2
-      internalID: -1879821097
+      spriteID: 68ea0531f6ac033439f95157bae64f02
+      internalID: 1881008525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: T_Junction
+      name: Wall assets_9
       rect:
         serializedVersion: 2
         x: 16
@@ -258,29 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7e117c2723a4c2428ba9143a823b6e6
-      internalID: -1550286717
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_Gate
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b95a4bf241a8a714280e01602c46e2f5
-      internalID: -575344597
+      spriteID: b890584a535caec4db8420b06f02ec7c
+      internalID: -1173005579
       vertices: []
       indices: 
       edges: []
@@ -288,7 +309,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: 98cbdd27bdb31c044a3109379378b55e
     internalID: 0
     vertices: []
     indices: 
@@ -296,15 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Empty: -1320304767
-      Ghost_Gate: -575344597
-      Inner_Corner: -793045785
-      Inner_Wall: -949485693
-      Outer_Corner: -1900372074
-      Outer_Wall: -2130665771
-      Pellet: 1437957203
-      Power_Pellet: -1879821097
-      T_Junction: -1550286717
+      Wall assets_0: -1459592910
+      Wall assets_1: -1176456105
+      Wall assets_2: -2135179996
+      Wall assets_3: 1093030855
+      Wall assets_4: 1308800178
+      Wall assets_5: -164007587
+      Wall assets_6: 187683806
+      Wall assets_7: 1423566464
+      Wall assets_8: 1881008525
+      Wall assets_9: -1173005579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
