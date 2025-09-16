@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2334b208839879e4892c3940bcf861ef
-      internalID: -911078751
+      spriteID: 7ae7951b2cfd7f74d938e063d327a95f
+      internalID: 1414517413
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a32c60107ca971a4ca08646104c66319
-      internalID: 762135097
+      spriteID: 663b089ef93fc2342af4211e5e135e23
+      internalID: 439635254
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 776d050640890984493225ad0edd023a
-      internalID: 2123475723
+      spriteID: f7cd068ab6908af4f98e7c058e2c9b05
+      internalID: -112847213
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1020849b2f8f2414590b0eb172c94c7f
-      internalID: 324321545
+      spriteID: e3165526d6586724da941f17ed046648
+      internalID: -856199260
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5b06754fdb471474aa767b5fe21eb1f7
+    spriteID: b6c1c4f7124c2e54381f5328aab23042
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Side Walk Scared_0: -911078751
-      Dio Side Walk Scared_1: 762135097
-      Dio Side Walk Scared_2: 2123475723
-      Dio Side Walk Scared_3: 324321545
+      Dio Side Walk Scared_0: 1414517413
+      Dio Side Walk Scared_1: 439635254
+      Dio Side Walk Scared_2: -112847213
+      Dio Side Walk Scared_3: -856199260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
