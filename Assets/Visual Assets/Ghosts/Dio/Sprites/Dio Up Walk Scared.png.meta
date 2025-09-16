@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12b1a526c2dad0c45abd56b7f9f5fbe9
-      internalID: 1552793239
+      spriteID: 06a76fbeea680f94587b965a08a32afe
+      internalID: 1083494359
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3240b2670e28dd64d9128b6735b740d1
-      internalID: -959351171
+      spriteID: be98ef17d85b2c24781f1e183d93a659
+      internalID: 291309194
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4b0cbf6acf07d149a6702b166ffe33b
-      internalID: 1087155374
+      spriteID: 350cdb55ffc355b4cbb5cf18d7480972
+      internalID: 1048968057
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d04104d893e9f424b86714dfc39fe51d
-      internalID: 1920672803
+      spriteID: 63d7e2ba6ba7fa547ae1ea2cac5997e2
+      internalID: -1327320887
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: b8aa3ef1f223a4142a7b8460cfc90cca
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Up Walk Scared_0: 1552793239
-      Dio Up Walk Scared_1: -959351171
-      Dio Up Walk Scared_2: 1087155374
-      Dio Up Walk Scared_3: 1920672803
+      Dio Up Walk Scared_0: 1083494359
+      Dio Up Walk Scared_1: 291309194
+      Dio Up Walk Scared_2: 1048968057
+      Dio Up Walk Scared_3: -1327320887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

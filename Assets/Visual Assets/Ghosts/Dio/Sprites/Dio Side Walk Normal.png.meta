@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b0991311fa29704f83bee1eef51f823
-      internalID: -984234201
+      spriteID: 5b5c45dc7fdfec74ebd4d6fa67419d6d
+      internalID: -1415764218
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3783ce99964c5643a245af8e39a079d
-      internalID: 2135838969
+      spriteID: 49985563e603a7f489693b38f6f850da
+      internalID: 1552138333
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab222d58bad1b714cadf614f53e3f24d
-      internalID: 1486513056
+      spriteID: 00610898c05363a47965fef4467b7ce9
+      internalID: -675771541
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 491208371c759644fab4bfff4558634e
-      internalID: -987361918
+      spriteID: cd490e21032c28e4a8bd9304e53914d1
+      internalID: 679547632
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: fa67837e81e8ecc4583a0ff23bf28f2a
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Side Walk Normal_0: -984234201
-      Dio Side Walk Normal_1: 2135838969
-      Dio Side Walk Normal_2: 1486513056
-      Dio Side Walk Normal_3: -987361918
+      Dio Side Walk Normal_0: -1415764218
+      Dio Side Walk Normal_1: 1552138333
+      Dio Side Walk Normal_2: -675771541
+      Dio Side Walk Normal_3: 679547632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

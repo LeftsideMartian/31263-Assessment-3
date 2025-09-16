@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0beb612b47e51734886fbf8800bd6724
-      internalID: 500534284
+      spriteID: eece57666624ff24099f037e0803e70f
+      internalID: -1117702624
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02ed3a4876eb6af498bc16d196d41d22
-      internalID: -162424701
+      spriteID: 6bf5219f6786c7b409da3af9242f5246
+      internalID: 2133147034
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e99fb1f7001ee748950c1028fdf4280
-      internalID: 1405818748
+      spriteID: dd1e8ea3b86c7d940a76c6812926b84d
+      internalID: -1422920528
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50d00e2bdd9f94b479c0531ca15f3388
-      internalID: -1063029723
+      spriteID: 50de878820b020442845133f058a5b05
+      internalID: 2051883121
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: 8760924f13e3e2c4a9f64297e386edc8
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Up Walk Scared_0: 500534284
-      Diavolo Up Walk Scared_1: -162424701
-      Diavolo Up Walk Scared_2: 1405818748
-      Diavolo Up Walk Scared_3: -1063029723
+      Diavolo Up Walk Scared_0: -1117702624
+      Diavolo Up Walk Scared_1: 2133147034
+      Diavolo Up Walk Scared_2: -1422920528
+      Diavolo Up Walk Scared_3: 2051883121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

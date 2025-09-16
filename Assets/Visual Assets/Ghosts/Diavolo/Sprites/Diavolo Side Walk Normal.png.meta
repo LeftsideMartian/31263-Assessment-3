@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c3b96d545d23e944a9e34536d3b541e
-      internalID: 1975797825
+      spriteID: 2ba2056e0df1e0146ba11e1acf43f455
+      internalID: 352150440
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f0dc1596817b274e8d09dd721ba1593
-      internalID: -1137898457
+      spriteID: 028b6addbe1a67b43a69777230a5fde1
+      internalID: -250407425
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b46f0ce73ba03684791d1cee2297b45b
-      internalID: -419567299
+      spriteID: d5b35836fe89e8443a9d023f70ff809a
+      internalID: -429728802
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b1f77e3602bf444f9107c567f8a521e
-      internalID: -159116279
+      spriteID: ef5aaa69c6e9a2b4f9d5d5c510d8e182
+      internalID: 251077496
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: 6c21a614f1c7fb1418bb32c8cca381a2
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Side Walk Normal_0: 1975797825
-      Diavolo Side Walk Normal_1: -1137898457
-      Diavolo Side Walk Normal_2: -419567299
-      Diavolo Side Walk Normal_3: -159116279
+      Diavolo Side Walk Normal_0: 352150440
+      Diavolo Side Walk Normal_1: -250407425
+      Diavolo Side Walk Normal_2: -429728802
+      Diavolo Side Walk Normal_3: 251077496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

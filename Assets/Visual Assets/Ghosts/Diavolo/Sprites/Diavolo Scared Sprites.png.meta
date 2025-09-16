@@ -48,9 +48,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70028742697808e40a691ef16622ffee
-      internalID: 526399443
+      spriteID: 8bed68b085d553c4b84341ed5f592a37
+      internalID: -1405070214
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 170b823771dff3640b4155c5f04b347e
-      internalID: -1782353563
+      spriteID: 03d361fadc29cf641ba3005bca4155f1
+      internalID: -1230215132
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d273c95f66b433240a43549bb6814cdc
-      internalID: -238348276
+      spriteID: 60f7e6aa0fac27f42b93f660a2a542f4
+      internalID: 1497989678
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8506ed81ea64723409f503a8408fadfa
-      internalID: 1921296114
+      spriteID: 32d38bf2883c85a43af6d071683ab494
+      internalID: 1168286118
       vertices: []
       indices: 
       edges: []
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e846ee1b90f7c942ba2f91f53ed85de
-      internalID: -906787085
+      spriteID: e97bedbeb735dc44884bcf7a5169e208
+      internalID: 826052488
       vertices: []
       indices: 
       edges: []
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57e2275d77297be488785f4afa41036d
-      internalID: -1568146271
+      spriteID: 2b60cd3bfa586e4499192a7a8c63c0ac
+      internalID: -891887664
       vertices: []
       indices: 
       edges: []
@@ -225,7 +225,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: e8649f1b6f5573641a337731dd41adc1
     internalID: 0
     vertices: []
     indices: 
@@ -233,12 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Scared Sprites_0: 526399443
-      Diavolo Scared Sprites_1: -1782353563
-      Diavolo Scared Sprites_2: -238348276
-      Diavolo Scared Sprites_3: 1921296114
-      Diavolo Scared Sprites_4: -906787085
-      Diavolo Scared Sprites_5: -1568146271
+      Diavolo Scared Sprites_0: -1405070214
+      Diavolo Scared Sprites_1: -1230215132
+      Diavolo Scared Sprites_2: 1497989678
+      Diavolo Scared Sprites_3: 1168286118
+      Diavolo Scared Sprites_4: 826052488
+      Diavolo Scared Sprites_5: -891887664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

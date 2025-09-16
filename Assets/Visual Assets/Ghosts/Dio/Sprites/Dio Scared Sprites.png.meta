@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78e63cad02cb30c488f42cbf874657a2
-      internalID: -821667021
+      spriteID: e24d08a2573288d4d85bb707149c97ec
+      internalID: -1376714493
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adba0c27bdc236d42a77292c635f7b4a
-      internalID: -858203235
+      spriteID: 35a3c00fbadb1c84286ad616fa3b3006
+      internalID: 583199417
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13083c5cd9a2168428ae4c68d02c14f2
-      internalID: -759282441
+      spriteID: 6a009476905e4ea419f195203735f0f5
+      internalID: 1343893073
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9c7602fe33dcc447b56f6ae1775a8f0
-      internalID: -1016800686
+      spriteID: 2adccb9c714c9ab4980a24d649ff65d0
+      internalID: 390831060
       vertices: []
       indices: 
       edges: []
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d10bee9f7ce16b84e99d5f67457984e3
-      internalID: -1664716020
+      spriteID: 6518a6b355aeb844dbe6a5723f61a76f
+      internalID: 1316108793
       vertices: []
       indices: 
       edges: []
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71e112488efc70045a3d8c81ab000bdb
-      internalID: -1984498464
+      spriteID: ed813743669031145bd3f41a0cb6ed80
+      internalID: 1326318673
       vertices: []
       indices: 
       edges: []
@@ -225,7 +225,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: d66bb19624dfb8c47b2653a73c405a89
     internalID: 0
     vertices: []
     indices: 
@@ -233,12 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Scared Sprites_0: -821667021
-      Dio Scared Sprites_1: -858203235
-      Dio Scared Sprites_2: -759282441
-      Dio Scared Sprites_3: -1016800686
-      Dio Scared Sprites_4: -1664716020
-      Dio Scared Sprites_5: -1984498464
+      Dio Scared Sprites_0: -1376714493
+      Dio Scared Sprites_1: 583199417
+      Dio Scared Sprites_2: 1343893073
+      Dio Scared Sprites_3: 390831060
+      Dio Scared Sprites_4: 1316108793
+      Dio Scared Sprites_5: 1326318673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

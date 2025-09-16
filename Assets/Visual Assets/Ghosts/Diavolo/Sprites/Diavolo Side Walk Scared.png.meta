@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6703d4cecaf903949b200abe24bc22f5
-      internalID: -1445668171
+      spriteID: 38a751bdaa35e3f4fa86766a7a666348
+      internalID: 954361833
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9d85a037cfa7c46972fe1022909094
-      internalID: 1148511865
+      spriteID: 1abe8a0ce2c9c3b4289d91b4c818af9c
+      internalID: -588645267
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c03aba4b800334f904d36b731c5426
-      internalID: 1248946106
+      spriteID: 5fd050fd702f0204681d4541a26dfb51
+      internalID: -442575694
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 324e84607f7746b4db7095efb92b7d44
-      internalID: -1550680078
+      spriteID: 93b21b455fe24bb41b7520cd983ea6cc
+      internalID: -1269874588
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: c3cfbb022a6efe34b9bbbbdf696c1417
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Side Walk Scared_0: -1445668171
-      Diavolo Side Walk Scared_1: 1148511865
-      Diavolo Side Walk Scared_2: 1248946106
-      Diavolo Side Walk Scared_3: -1550680078
+      Diavolo Side Walk Scared_0: 954361833
+      Diavolo Side Walk Scared_1: -588645267
+      Diavolo Side Walk Scared_2: -442575694
+      Diavolo Side Walk Scared_3: -1269874588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

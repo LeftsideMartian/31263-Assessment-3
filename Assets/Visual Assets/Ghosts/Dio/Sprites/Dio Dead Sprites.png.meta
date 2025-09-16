@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861880f8e81de5f49a9655b9beab0897
-      internalID: -1762640112
+      spriteID: 58fc9f533b83bd8499a54621d63af810
+      internalID: -961853862
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31da2959e4e9d794680c653e41f15724
-      internalID: 983944979
+      spriteID: bcb09484497eb8c4292e55dc0c9a161b
+      internalID: 2014989929
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5987554bd3b173d49add473cde5f4d56
-      internalID: -560374276
+      spriteID: 0f2cbd2f686556843b86802dfb760b28
+      internalID: -210195690
       vertices: []
       indices: 
       edges: []
@@ -162,7 +162,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: b440f77b3e5286940b843d7d2dc53729
     internalID: 0
     vertices: []
     indices: 
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Dead Sprites_0: -1762640112
-      Dio Dead Sprites_1: 983944979
-      Dio Dead Sprites_2: -560374276
+      Dio Dead Sprites_0: -961853862
+      Dio Dead Sprites_1: 2014989929
+      Dio Dead Sprites_2: -210195690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

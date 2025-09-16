@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 448d8ab82d47f344dbe07011c8cf53a1
-      internalID: 977063867
+      spriteID: c83edf7c4e21f45479a8a1c2f1ac021e
+      internalID: -394289828
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96a2c97332cb69745aa334173c4418c7
-      internalID: -1732971940
+      spriteID: 0aa53037a5885ec47bfe5a8c0a953075
+      internalID: -137822239
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65c40832f1ea867419121a140d77bd78
-      internalID: 230714236
+      spriteID: 7cd45903c128c8741ad231d0dd57160d
+      internalID: -1580053137
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf493eccf95632e459fcb4a4fb251bfa
-      internalID: -2105260786
+      spriteID: 22a941cffb4747f49822f469ef876830
+      internalID: 1500200534
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b6c1c4f7124c2e54381f5328aab23042
+    spriteID: 66eccab5bf8f94b4386f212bb1e1882a
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Down Walk Scared_0: 977063867
-      Diavolo Down Walk Scared_1: -1732971940
-      Diavolo Down Walk Scared_2: 230714236
-      Diavolo Down Walk Scared_3: -2105260786
+      Diavolo Down Walk Scared_0: -394289828
+      Diavolo Down Walk Scared_1: -137822239
+      Diavolo Down Walk Scared_2: -1580053137
+      Diavolo Down Walk Scared_3: 1500200534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
