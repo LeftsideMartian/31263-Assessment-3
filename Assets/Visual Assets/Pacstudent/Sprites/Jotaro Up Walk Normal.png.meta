@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fcf44e336999b9d48bd7e35596a52abd
+guid: 2a7b90d18700d3f4f9415a8fd0256664
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jotaro Up Walk Normal_0
+      name: Jotaro Up Walk Normal (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a66cb2db0829d184886309f48998f9c8
-      internalID: -1611196718
+      spriteID: 9bf7665c15f4f414e93e65dfb314fcd9
+      internalID: 1479739209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Normal_1
+      name: Jotaro Up Walk Normal (1)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55bfa23a28fe47649be4ce92c1075f06
-      internalID: -2028830550
+      spriteID: cad0c5f322975c74ab6d06ae25870573
+      internalID: -329062178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Normal_2
+      name: Jotaro Up Walk Normal (1)_2
       rect:
         serializedVersion: 2
         x: 0
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f40f2b7b193f8f409f476ad0dc49fd1
-      internalID: 479430426
+      spriteID: d58888f355112a745a756c3810fe4241
+      internalID: 222105732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Normal_3
+      name: Jotaro Up Walk Normal (1)_3
       rect:
         serializedVersion: 2
         x: 16
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc582e63088482c44b09db3cd9982345
-      internalID: 1706847190
+      spriteID: 7dc5bb461cab0dc48b6bb2f257afeed1
+      internalID: 1789352487
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 805f1a2c561a37147b1ddef1f33dc3e0
+    spriteID: 4d218595bd21d2c4d8aed3d0dd2f761f
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Jotaro Up Walk Normal_0: -1611196718
-      Jotaro Up Walk Normal_1: -2028830550
-      Jotaro Up Walk Normal_2: 479430426
-      Jotaro Up Walk Normal_3: 1706847190
+      Jotaro Up Walk Normal (1)_0: 1479739209
+      Jotaro Up Walk Normal (1)_1: -329062178
+      Jotaro Up Walk Normal (1)_2: 222105732
+      Jotaro Up Walk Normal (1)_3: 1789352487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

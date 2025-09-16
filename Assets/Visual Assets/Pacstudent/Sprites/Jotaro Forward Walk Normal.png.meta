@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5a796e7b03c56b409e6e2512b4bf881
-      internalID: -1482288586
+      spriteID: c0727f6a0e1173849af47d261a6d59a6
+      internalID: 1430764672
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6ff3c8a72dbbf341bd8d8ad782be644
-      internalID: -449182266
+      spriteID: 3ce27221e067a2d4b90c02e6f199aa02
+      internalID: -1712706071
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f78c3f4d2d63d1342b692fe2a6c306d4
-      internalID: -1313336839
+      spriteID: 2c2045f3dd8b2464ea4e1408cf530f1d
+      internalID: -351171443
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 635e07c887151db47992316f54a23aa9
-      internalID: -1314771968
+      spriteID: 866ddaf71898d7a4eb0a2cb6727b3627
+      internalID: 2125927720
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3b6966aa0749c094d8c176bff9a39fb4
+    spriteID: 22d20dc82e07412449d57ad27e77004f
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Jotaro Forward Walk Normal_0: -1482288586
-      Jotaro Forward Walk Normal_1: -449182266
-      Jotaro Forward Walk Normal_2: -1313336839
-      Jotaro Forward Walk Normal_3: -1314771968
+      Jotaro Forward Walk Normal_0: 1430764672
+      Jotaro Forward Walk Normal_1: -1712706071
+      Jotaro Forward Walk Normal_2: -351171443
+      Jotaro Forward Walk Normal_3: 2125927720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

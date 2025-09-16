@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b30c76493c41b84e89b1ab8119d2a9d
-      internalID: -918740458
+      spriteID: de089a5f43e2d804491b7248e7ae7946
+      internalID: 1070771159
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48996d1cae555b242a411ccb9d75c658
-      internalID: -217139
+      spriteID: 7827f939d058c964f84720f0be0cfe6f
+      internalID: -993462282
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b87a8974d4ed844482acb7d6c7b355a
-      internalID: 229019931
+      spriteID: 82d0a9adf664e60469b7acc010f25f6a
+      internalID: -20168760
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d8c545d80c80644cb7c140e864cf370
-      internalID: 500564596
+      spriteID: 6074a75d511b11248b09b9e4d4e4f6a1
+      internalID: 585561782
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d6cf5507bcd936e458b088e16f4e073c
+    spriteID: 64d1680e58b0c734bbf3bc9e6a1c87ec
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Jotaro Forward Walk Power Up_0: -918740458
-      Jotaro Forward Walk Power Up_1: -217139
-      Jotaro Forward Walk Power Up_2: 229019931
-      Jotaro Forward Walk Power Up_3: 500564596
+      Jotaro Forward Walk Power Up_0: 1070771159
+      Jotaro Forward Walk Power Up_1: -993462282
+      Jotaro Forward Walk Power Up_2: -20168760
+      Jotaro Forward Walk Power Up_3: 585561782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

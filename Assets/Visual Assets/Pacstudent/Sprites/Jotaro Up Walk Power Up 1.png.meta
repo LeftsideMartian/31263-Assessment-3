@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 64d952566f3e19a48969a9c541308ae4
+guid: f817e3233cf38c547b335c288df7529e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jotaro Up Walk Power Up_0
+      name: Jotaro Up Walk Power Up 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 905c84fc5f367664d92087ac49c67abc
-      internalID: 1799810797
+      spriteID: f785f919c9a358349b1822199f1053c9
+      internalID: -2129744853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Power Up_1
+      name: Jotaro Up Walk Power Up 1_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c25c1d04a00f4ec41943b8824a5dba5c
-      internalID: -1884295865
+      spriteID: 0202e3e6d9e24ce4081d7889e642e03b
+      internalID: 1540293291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Power Up_2
+      name: Jotaro Up Walk Power Up 1_2
       rect:
         serializedVersion: 2
         x: 0
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1668a9cc7d8cdc48af91075aa87d731
-      internalID: 1570939896
+      spriteID: f1356ab33f069ae44afb0198479eed8b
+      internalID: 699846016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jotaro Up Walk Power Up_3
+      name: Jotaro Up Walk Power Up 1_3
       rect:
         serializedVersion: 2
         x: 16
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2db8a0a28643b0f4d9ab890956f09e4f
-      internalID: -987225218
+      spriteID: 1db36f0f07dc7e74299436f2db2d4269
+      internalID: -916726558
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b12aecaa230246b4f85c537019e9bce1
+    spriteID: 9d292aa5ecd5f8340843faff79d1592d
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Jotaro Up Walk Power Up_0: 1799810797
-      Jotaro Up Walk Power Up_1: -1884295865
-      Jotaro Up Walk Power Up_2: 1570939896
-      Jotaro Up Walk Power Up_3: -987225218
+      Jotaro Up Walk Power Up 1_0: -2129744853
+      Jotaro Up Walk Power Up 1_1: 1540293291
+      Jotaro Up Walk Power Up 1_2: 699846016
+      Jotaro Up Walk Power Up 1_3: -916726558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
