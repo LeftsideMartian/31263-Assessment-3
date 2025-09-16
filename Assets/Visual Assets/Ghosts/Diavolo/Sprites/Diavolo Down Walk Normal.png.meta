@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f72c48974d65ba049a317425175a94c7
-      internalID: -140151333
+      spriteID: 9c4a7607c8ee92449803927682aad57c
+      internalID: 603359444
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71aa83f5288516148a863b242a639225
-      internalID: 1414387771
+      spriteID: 058a89640e95d514a9b9c216fe64a375
+      internalID: 20415309
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3285a321eb8fa84dab763182833dde7
-      internalID: -1303042343
+      spriteID: b833a3681f1b3e64ba3251c5e780811c
+      internalID: -34969961
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8578ebdb53689ee4287acd462169f92e
-      internalID: 730007933
+      spriteID: c51d4b82dd9f17b48bfa0349b32d439f
+      internalID: -1213260166
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7853b53e85c94464297542f5b512e2ad
+    spriteID: b6c1c4f7124c2e54381f5328aab23042
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Down Walk Normal_0: -140151333
-      Diavolo Down Walk Normal_1: 1414387771
-      Diavolo Down Walk Normal_2: -1303042343
-      Diavolo Down Walk Normal_3: 730007933
+      Diavolo Down Walk Normal_0: 603359444
+      Diavolo Down Walk Normal_1: 20415309
+      Diavolo Down Walk Normal_2: -34969961
+      Diavolo Down Walk Normal_3: -1213260166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

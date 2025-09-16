@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a71b847cf28c2a946bed2c20bb0f5995
-      internalID: 1400828472
+      spriteID: cb230e9ac6005be4db839cd34269403b
+      internalID: -263138147
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc5ed60b718337945b8e7280e509bfac
-      internalID: 1464225004
+      spriteID: 186c7436b1d149647bc290badda1e7c1
+      internalID: 673621448
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69702b1a46c0e0b4aafafe477449544f
-      internalID: -1326436737
+      spriteID: bdcc24680492b1549bbf500869580150
+      internalID: 1527600628
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 304c16a6ec515cc48a7414694ccb11c6
-      internalID: -1621262051
+      spriteID: e09e691cddcd0954fa819663ffa5258a
+      internalID: -996935489
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a159289ed724b9540b7eecbc107a9327
+    spriteID: b6c1c4f7124c2e54381f5328aab23042
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dio Forward Walk Normal_0: 1400828472
-      Dio Forward Walk Normal_1: 1464225004
-      Dio Forward Walk Normal_2: -1326436737
-      Dio Forward Walk Normal_3: -1621262051
+      Dio Forward Walk Normal_0: -263138147
+      Dio Forward Walk Normal_1: 673621448
+      Dio Forward Walk Normal_2: 1527600628
+      Dio Forward Walk Normal_3: -996935489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

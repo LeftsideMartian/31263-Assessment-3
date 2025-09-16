@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fca5f6161a7ffed4093871c533696003
-      internalID: -610306671
+      spriteID: e8041948f2b209a48843fa864cff5884
+      internalID: 44140461
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4897e3db86b110442b722ad043e57fa0
-      internalID: 1885412146
+      spriteID: 731cb13d6e3d0e84ba1b801f05a6554d
+      internalID: -402219990
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598cd5200324eed44980077864d83a9a
-      internalID: 1085026211
+      spriteID: 65b3aa24a2304a441b9d07fc45ca2363
+      internalID: -2128428411
       vertices: []
       indices: 
       edges: []
@@ -162,7 +162,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b5e86d9c3d296ef4999a6eb88f952640
+    spriteID: b6c1c4f7124c2e54381f5328aab23042
     internalID: 0
     vertices: []
     indices: 
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Dead Sprites_0: -610306671
-      Diavolo Dead Sprites_1: 1885412146
-      Diavolo Dead Sprites_2: 1085026211
+      Diavolo Dead Sprites_0: 44140461
+      Diavolo Dead Sprites_1: -402219990
+      Diavolo Dead Sprites_2: -2128428411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

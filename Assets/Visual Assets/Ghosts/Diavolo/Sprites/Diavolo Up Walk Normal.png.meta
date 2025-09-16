@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47068d0c93eebd241ba896ea301bce17
-      internalID: 1280007275
+      spriteID: 3ab3a26522a5a8e45b5c4277f751c8e7
+      internalID: -90397701
       vertices: []
       indices: 
       edges: []
@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9581f75756b4e6a41953647a5c62bfc4
-      internalID: 2006294008
+      spriteID: 1082972b4be3e204b960ad4c745c6cba
+      internalID: -900485215
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54d471c07f4c13a4ab308f7999980ade
-      internalID: 1726983277
+      spriteID: cf005870d0f216f4eb06ddf830a677ae
+      internalID: -1403161900
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7edd185c265a5274cb6c1a1377737bb7
-      internalID: -870373486
+      spriteID: 60d43730e23678241ab7a725b3284b90
+      internalID: 1689511158
       vertices: []
       indices: 
       edges: []
@@ -183,7 +183,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9e8c494d6ece1e44ea18f9f6b564ef55
+    spriteID: b6c1c4f7124c2e54381f5328aab23042
     internalID: 0
     vertices: []
     indices: 
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Diavolo Up Walk Normal_0: 1280007275
-      Diavolo Up Walk Normal_1: 2006294008
-      Diavolo Up Walk Normal_2: 1726983277
-      Diavolo Up Walk Normal_3: -870373486
+      Diavolo Up Walk Normal_0: -90397701
+      Diavolo Up Walk Normal_1: -900485215
+      Diavolo Up Walk Normal_2: -1403161900
+      Diavolo Up Walk Normal_3: 1689511158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
