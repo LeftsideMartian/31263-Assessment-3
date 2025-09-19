@@ -23,18 +23,20 @@ public class AudioController : MonoBehaviour
         public AudioClip audioClip;
     }
     
-    [SerializeField] private AudioSource audioSource;
+    private AudioSource audioSource;
+    [SerializeField] private AudioSource pacStudentAudioSource;
     [SerializeField] private AudioAsset[] audioAssets;
+    private float timeOfLastSteppingSoundEffect = 0.0f;
 
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         ChangeBGM(AudioAssetType.IntroBGM);
     }
 
     private void Update()
     {
         // If 3 seconds pass OR the audio clip finishes playing
-        
         if (Time.time >= 3.0f || !audioSource.isPlaying)
         {
             ChangeBGM(AudioAssetType.GhostNormalBGM);
@@ -53,9 +55,9 @@ public class AudioController : MonoBehaviour
 
     public void PlaySoundEffect(AudioAssetType type)
     {
-        audioSource.PlayOneShot(GetAudioClip(type));
+        pacStudentAudioSource.PlayOneShot(GetAudioClip(type));
     } 
-
+    
     private AudioClip GetAudioClip(AudioAssetType type)
     {
         foreach (AudioAsset audioAsset in audioAssets)
