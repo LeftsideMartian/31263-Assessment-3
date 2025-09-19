@@ -4,9 +4,11 @@ public class MovementController : MonoBehaviour
 {
     private float timer = 0;
     private int lastTime = 0;
+    private float lastSoundEffectTime = 0;
     
     [SerializeField] private Transform transform;
     [SerializeField] private Tweener tweener;
+    [SerializeField] private AudioController audioController;
 
     private const float moveSpeed = 0.5f; // In units per second
     private int cycleStage = 0;
@@ -22,12 +24,19 @@ public class MovementController : MonoBehaviour
         transform.position = firstPos;
         animator.SetInteger("Direction", cycleStage);
         CycleTween();
+        
     }
 
     private void Update()
     {
         // Increment timer
         timer += Time.deltaTime;
+
+        if (timer - lastSoundEffectTime >= 0.4)
+        {
+            audioController.PlaySoundEffect(AudioController.AudioAssetType.PacWalking);
+            lastSoundEffectTime = timer;
+        }
 
         if (timer - lastTime >= 1 && !tweener.IsTweenActive())
         {
