@@ -34,6 +34,7 @@ public class AudioController : MonoBehaviour
     private void Update()
     {
         // If 3 seconds pass OR the audio clip finishes playing
+        
         if (Time.time >= 3.0f || !audioSource.isPlaying)
         {
             ChangeBGM(AudioAssetType.GhostNormalBGM);
