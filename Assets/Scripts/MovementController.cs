@@ -5,7 +5,7 @@ public class MovementController : MonoBehaviour
     private float timer = 0;
     private int lastTime = 0;
     
-    [SerializeField] private Transform transform;
+    [SerializeField] private Transform targetTransform;
     [SerializeField] private Tweener tweener;
 
     private const float moveSpeed = 0.5f; // In units per second
@@ -19,7 +19,7 @@ public class MovementController : MonoBehaviour
 
     private void Start()
     {
-        transform.position = firstPos;
+        targetTransform.position = firstPos;
         animator.SetInteger("Direction", cycleStage);
         CycleTween();
     }
@@ -39,22 +39,22 @@ public class MovementController : MonoBehaviour
 
     private void CycleTween()
     {
-        Vector3 currentPosition = transform.position;
+        Vector3 currentPosition = targetTransform.position;
         float duration = 2.0f;
         
         switch (cycleStage)
         {
             case 0:
-                tweener.SetActiveTween(new Tween(transform, currentPosition, firstPos, Time.time, duration));
+                tweener.SetActiveTween(new Tween(targetTransform, currentPosition, firstPos, Time.time, duration));
                 break;
             case 1:
-                tweener.SetActiveTween(new Tween(transform, currentPosition, secondPos, Time.time, duration));
+                tweener.SetActiveTween(new Tween(targetTransform, currentPosition, secondPos, Time.time, duration));
                 break;
             case 2:
-                tweener.SetActiveTween(new Tween(transform, currentPosition, thirdPos, Time.time, duration));
+                tweener.SetActiveTween(new Tween(targetTransform, currentPosition, thirdPos, Time.time, duration));
                 break;
             case 3:
-                tweener.SetActiveTween(new Tween(transform, currentPosition, fourthPos, Time.time, duration));
+                tweener.SetActiveTween(new Tween(targetTransform, currentPosition, fourthPos, Time.time, duration));
                 break;
         }
     }
@@ -62,12 +62,12 @@ public class MovementController : MonoBehaviour
     private void UpdateCycleStage()
     {
         animator.SetInteger("Direction", cycleStage);
-        transform.localScale = new Vector3(1, 1, 1);
+        targetTransform.localScale = new Vector3(1, 1, 1);
 
         if (cycleStage == 3)
         {
             // Flip sprite
-            transform.localScale = new Vector3(-1, 1, 1);
+            targetTransform.localScale = new Vector3(-1, 1, 1);
             cycleStage = 0;
         } else
         {
